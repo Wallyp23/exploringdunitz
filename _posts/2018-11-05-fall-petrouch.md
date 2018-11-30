@@ -7,7 +7,7 @@ author: "Walter Petrouchin"
 lat: 34.036338
 lng: -118.480257
 runningtitle: "this is just the title at the top, no need to do anything here"
-desc: "this is the map popup text"
+desc: "Santa Monica is a liberal tech and business hub that sports a future-oriented mindset designed in a manner that demonstrates that the city cares for its people"
 ---
 Nineteen years, six days and counting, I’ve lived in Santa Monica; born and raised in the city, I felt like I had a solid understanding of what the city is “about.” When afforded the opportunity to conduct a research project on one of USC’s neighboring districts, however, I couldn’t help but choose to research Santa Monica, if only for the sole reason that it’s the only place I’ve ever called home. In the ensuing weeks following this writing project’s initiation date, countless hours were dedicated to obtaining valid data; the research that’s been conducted all leads to an unmistakable conclusion: Santa Monica is a liberal tech and business hub that sports a future-oriented mindset designed in a manner that demonstrates that the city cares for its people. Conversations and surveys with/of neighbors confirm that the city is liberal; analysis of expert reviews on the business climate of Santa Monica as well as first-hand analysis of local businesses demonstrate that Santa Monica is a booming business destination; and examination of local initiatives illustrate the level of caring the city has for its people. 
 
@@ -54,39 +54,24 @@ Another dimension of Santa Monica caring: it supports its own small businesses. 
 Santa Monica is a very caring Liberal city that does well for itself financially. The conclusion came to be after spending the last several weeks interviewing Santa Monican residents, analyzing business specialist reviews, and evaluating community measures. Having been a part of Santa Monica for close to two decades now, I appreciate it for the amazing home it has been to me. Although not all American cities border the Pacific Ocean and not every town belongs to the mega city supercenter Los Angeles has evolved into, it’s important to recognize that every city has something special about itself that can make it an exemplary place. And no, not every city has to be a liberal business hub, but if every city chose to be the best city it can be for its people, then the world would become a better place. 
 
 
-
-
-
-This is the body of your essay. You will copy and paste your essay into here. You will just delete all the text below and put in your own.
-
-Spaces will work.
-
-Indents do not, so just put a space in for each new paragraph.
-
-Formating is very simple in this document. 
-
-To add an image you will use an exclamation point, then a description in brackets, and then the location of the image in parentheses. We will try to store ALL of our images in the GitHub repository.  There is also a little bit of text after the image in the special curly brackets and the word image inside it. Leave this alone! It displays the image in a special viewer so when you click on the image it opens it up in its own viewer and then you can cycle through all the images in this viewer. You can put in as many images as you like. Just always make sure to have the curly brackets afterwards.
-
-
 #### Works cited
 
-Author, Guest. “Santa Monica High School Students Plan Walkout and Protest at Santa	 	Monica City Hall.” Santa Monica Daily Press, 20 Apr. 2018, 					www.smdp.com/santa-monica-high-school-students-plan-walkout-and-protest-at-	santa-monica-city-hall/165646.
+Author, Guest. “Santa Monica High School Students Plan Walkout and Protest at Santa Monica City Hall.” Santa Monica Daily Press, 20 Apr.     2018, www.smdp.com/santa-monica-high-school-students-plan-walkout-and-protest-at-santa-monica-city-hall/165646.
 
-“Census Profile: Santa Monica, CA.” Census Reporter, 2017, 					censusreporter.org/profiles/16000US0670000-santa-monica-ca/.
+“Census Profile: Santa Monica, CA.” Census Reporter, 2017, censusreporter.org/profiles/16000US0670000-santa-monica-ca/.
 
-“Fresh Eats: Santa Monica Farmers Market Bounty.” Santa Monica, City of Santa 		Monica, 4 Oct. 2018,										www.santamonica.com/fresh-eats-santa-monica-farmers-markets/.
+“Fresh Eats: Santa Monica Farmers Market Bounty.” Santa Monica, City of Santa Monica, 4 Oct. 2018,	                  						     www.santamonica.com/fresh-eats-santa-monica-farmers-markets/.
 
-Holland, Emily. “How Does SMMUSD Compare To School Districts Nationwide?” Santa 		Monica, CA Patch, Patch, 8 Aug. 2017,								patch.com/california/santamonica/how-does-smmusd-compare-school-districts-		nationwide.
+Holland, Emily. “How Does SMMUSD Compare To School Districts Nationwide?” Santa Monica, CA Patch, Patch, 8 Aug. 2017,							  patch.com/california/santamonica/how-does-smmusd-compare-school-districts-nationwide.
 
-Mirrormmg. “Committee Forms to Deal With Race Incident:” Santa Monica Mirror, 9		Aug. 2011, smmirror.com/2011/08/committee-forms-to-deal-with-race-incident/.
+Mirrormmg. “Committee Forms to Deal With Race Incident:” Santa Monica Mirror, 9 Aug. 2011, smmirror.com/2011/08/committee-forms-to-deal-       with-race-incident/.
 
 Petrouchin, Walter. “Santa Monica - Liberal or Not?” 28 Oct. 2018.
 
-Rogers, Everett M., et al. “The PEN Project in Santa Monica: Interactive 				Communication, Equality, and Political Action.” The Canadian Journal of 			Chemical Engineering, Wiley-Blackwell, 4 Jan. 1999, onlinelibrary.wiley.com/doi	
-/pdf/10.1002/(SICI)1097-4571(199407)45:6<401::AID-ASI6>3.0.CO;2-N.
+Rogers, Everett M., et al. “The PEN Project in Santa Monica: Interactive Communication, Equality, and Political Action.” The Canadian        Journal of Chemical Engineering, Wiley-Blackwell, 4 Jan. 1999, onlinelibrary.wiley.com/doi	
+      /pdf/10.1002/(SICI)1097-4571(199407)45:6<401::AID-ASI6>3.0.CO;2-N.
 
-Siegel, John. “Los Angeles Tech Neighborhood Guide: Santa Monica.” Built In Los 		Angeles, 4 May 2017, www.builtinla.com/2017/05/04/los-angeles-tech		
--neighborhood-guide-santa-monica.
+Siegel, John. “Los Angeles Tech Neighborhood Guide: Santa Monica.” Built In Los Angeles, 4 May 2017, www.builtinla.com/2017/05/04/los-          angeles-tech-neighborhood-guide-santa-monica.
 
-“SMC Maintains No. 1 Spot In Transfers to University of California.” Santa Monica 		College, www.smc.edu/NewsRoom/Pages/SMC-Maintains-Top-Spot-In			-Transfers-to-UC.aspx.
+“SMC Maintains No. 1 Spot In Transfers to University of California.” Santa Monica College, www.smc.edu/NewsRoom/Pages/SMC-Maintains-Top-        Spot-In-Transfers-to-UC.aspx.
 
