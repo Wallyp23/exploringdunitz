@@ -2,7 +2,7 @@
 layout: post
 title: "What Was Thought About Santa Monica, Confirmed"
 date: 2018-11-23
-categories: "sustainability" 
+categories: "Metropolitan" 
 author: "Walter Petrouchin"
 lat: 34.036338
 lng: -118.480257
